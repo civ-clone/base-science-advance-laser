@@ -13,7 +13,8 @@
   "files": [
     "Laser.js",
     "Laser.d.ts",
-    "Laser.js.map"
+    "Laser.js.map",
+    "Laser.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
